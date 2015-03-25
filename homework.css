@@ -1,0 +1,152 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:url("bck2.jpg") no-repeat 150px 0;
+	background-attachment:fixed;
+
+}
+
+
+h1, h2 
+{
+	text-indent: 30px;
+	font-size:1.4em;
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+
+
+h3 
+{
+	margin: 3px 0 5px 0
+	padding:0;
+	font-size: 20px;
+}
+
+
+p 
+{
+	margin: 5px 0;
+}
+
+
+.page-wrapper
+{
+	position:absolute;
+	background: url(bck.jpg) no-repeat top left ;
+	background-attachment:fixed;
+}
+
+
+a:link 
+{
+	color:black;
+}
+
+a:hover, a:active 
+{
+	text-decoration: bold;
+	color:blue;
+}
+
+
+a:visited 
+{
+	font-weight:underline;
+	color:black;
+}
+
+
+
+.select 
+{
+	margin: 5px 0 5px 0;
+	padding: 0;
+	font-size: 15px;
+}
+
+
+
+.sidebar 
+{
+  	top: 170px;
+  	margin-left: 590px;
+  	position: absolute;
+  	text-align: right;
+  	font-family: arial;
+  	font-size: xx-small;
+  	width: 200px;
+  	padding: 0 12px;
+  	font-size: x-small;
+  	width: 174px;
+ }
+
+.summary 
+{
+ 	text-align: justify;
+  	padding: 100px 0 0 150px;
+  	width: 550px;
+  	font-family: arial;
+  	font-size: xx-small;
+  	font-size: x-small;
+  	width: 400px;
+}
+
+
+.preamble 
+{
+  	text-align: justify;
+  	padding: 0px 0 0 150px;
+  	width: 550px;
+  	font-family: arial;
+  	font-size: xx-small;
+  	font-size: x-small;
+  	width: 400px;
+}
+
+.extra1 
+{
+  	top: 0;
+  	left: 265px;
+ 	background: url(title2.jpg) no-repeat top left;
+  	position: absolute;
+  	width: 140px;
+  	height: 100px;
+}
+
+.supporting 
+{
+  	text-align: justify;
+  	padding: 0 0 0 150px;
+  	width: 550px;
+  	font-family: arial;
+  	font-size: xx-small;
+  	font-size: x-small;
+ 	 width: 400px;
+ }
+
+.explanation 
+{
+  
+  	text-align: justify;
+  	padding: 0 0 0 150px;
+  	width: 550px;
+  	font-family: "lucida grande", verdana, tahoma, arial;
+  	font-size: xx-small; 
+  	font-size: x-small;
+  	width: 400px;
+
+}
+
+
+preamble h3, .explanation h3, .participation h3, .benefits h3, .requirements h3
+{
+  	margin: 8px 0 3px 0;
+  	padding: 3px 0 0 0;
+  	font-size: 17px;
+  	font-weight: 500;
+  	background: url(svirgolata.gif) no-repeat top left;
+ 	 text-indent: 33px;
+}
